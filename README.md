@@ -19,3 +19,12 @@ Exemple :
 ```
 WALLETS="AEB;ADF"
 ```
+
+## TOMBO_ADVENTURE_USERS
+
+`TOMBO_ADVENTURE_USERS` est une variable qui représente une liste des users utilisés pour le jeu Tombo Adventure. Les users sont séparés par des points-virgules (;). Et chaque users se compose d'un wallet et un secret séparés par deux points (:).
+
+Exemple : 
+```
+TOMBO_ADVENTURE_USERS="AEB:12536;ADF:256978"
+```
